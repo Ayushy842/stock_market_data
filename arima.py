@@ -2,6 +2,7 @@ import yfinance as yf
 import pandas as pd
 import matplotlib.pyplot as plt
 from statsmodels.tsa.arima.model import ARIMA
+#dfdfdf
 stock_symbol = "IOC.NS"  # Replace with the desired stock symbol
 start_date = "2022-06-30"  # Replace with the desired start date
 end_date = "2023-07-30"  # Replace with the desired end date
